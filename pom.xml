@@ -21,7 +21,7 @@
     <groupId>io.github.mihaimese</groupId>
     <artifactId>playground</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <name>playground</name>
 
